@@ -1,4 +1,4 @@
-# Архив практических работ МПТ Себежко Александра
+# Архив практических работ РЭУ Себежко Александра
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/152faa65-a71b-424c-8301-c4d2fd17f138" width="900">
@@ -26,10 +26,10 @@
 * Операционные системы - Windows
 * Основы объектно-ориентированного программирования - C++, Python
 * Программирование на Python
-* Технологии разработки веб-приложений на Django
+* [Технологии разработки веб-приложений на Django](https://github.com/Archive-of-practical-work-for-the-PRUE/Test-Aggregator)
 * Философия
 * Этика деловых отношений
-* Курсовая работа - Python
+* [Курсовая работа - Python](https://github.com/Archive-of-practical-work-for-the-PRUE/Visual-list-of-books-app)
 ### 3 курс:
 * скоро здесь будут предметы @_@
 ### 4 курс:
