@@ -12,14 +12,14 @@
 
 ### 1 курс:
 * Алгоритмизация и программирование - C++
-* Информационные системы и технологии - Datalens
+* Информационные системы и технологии - Datalens | [Практическая работа 1](https://datalens.yandex/9qbbideeeinoy) | [Практическая работа 2](https://datalens.yandex/asqzoaigg696z)
 
 ### 2 курс:
 * [Базы данных - MySql, MaridDB](https://github.com/Archive-of-practical-work-for-the-PRUE/Homework-SQL)
 * Вычислительные системы, сети и телекоммуникации - Cisco
 * Операционные системы - Windows
-* Основы объектно-ориентированного программирования - C++, Python | [Курсовая работа - Python](https://github.com/Archive-of-practical-work-for-the-PRUE/Visual-list-of-books-app)
-* Программирование на Python
+* [Основы объектно-ориентированного программирования - Python,](https://github.com/Archive-of-practical-work-for-the-PRUE/Homework-OOP) C++ | [Курсовая работа - Python](https://github.com/Archive-of-practical-work-for-the-PRUE/Visual-list-of-books-app)
+* [Программирование на Python](https://github.com/Archive-of-practical-work-for-the-PRUE/Homework-Python)
 * [Технологии разработки веб-приложений на Django](https://github.com/Archive-of-practical-work-for-the-PRUE/Test-Aggregator)
 
 ### 3 курс:
