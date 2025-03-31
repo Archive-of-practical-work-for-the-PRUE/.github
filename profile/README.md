@@ -21,6 +21,7 @@
 * [Основы объектно-ориентированного программирования - Python,](https://github.com/Archive-of-practical-work-for-the-PRUE/Homework-OOP) C++ | [Курсовая работа - Python](https://github.com/Archive-of-practical-work-for-the-PRUE/Visual-list-of-books-app)
 * [Программирование на Python](https://github.com/Archive-of-practical-work-for-the-PRUE/Homework-Python)
 * [Технологии разработки веб-приложений на Django](https://github.com/Archive-of-practical-work-for-the-PRUE/Test-Aggregator)
+* [Интеграция и управление приложениями на удаленном сервере](https://github.com/Archive-of-practical-work-for-the-PRUE/Homework-API)
 
 ### 3 курс:
 * скоро здесь будут предметы @_@
