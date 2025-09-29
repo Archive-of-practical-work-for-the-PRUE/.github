@@ -24,7 +24,7 @@
 * [Интеграция и управление приложениями на удаленном сервере - Python](https://github.com/Archive-of-practical-work-for-the-PRUE/Homework-API)
 
 ### 3 курс:
-* скоро здесь будут предметы @_@
+* [Цифровые инструменты и сервисы для решения профессиональных задач - HTML/CSS/JS](https://github.com/Archive-of-practical-work-for-the-PRUE/Digital-Instruments)
 
 ### 4 курс:
 * скоро здесь будут предметы @_@
