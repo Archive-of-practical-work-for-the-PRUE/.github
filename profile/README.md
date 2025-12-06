@@ -25,6 +25,7 @@
 
 ### 3 курс:
 * [Цифровые инструменты и сервисы для решения профессиональных задач - HTML/CSS/JS](https://github.com/Archive-of-practical-work-for-the-PRUE/Digital-Instruments)
+* [Проектирование информационных систем - HTML/CSS/JS](https://github.com/Archive-of-practical-work-for-the-PRUE/Information-Systems-Design)
 * [Управление электронным бизнесом - Spring](https://github.com/Archive-of-practical-work-for-the-PRUE/E-business-Management)
 
 ### 4 курс:
