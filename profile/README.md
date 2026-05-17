@@ -18,7 +18,7 @@
 * [Базы данных - MySql, MaridDB](https://github.com/Archive-of-practical-work-for-the-PRUE/Homework-SQL)
 * Вычислительные системы, сети и телекоммуникации - Cisco
 * Операционные системы - Windows
-* [Основы объектно-ориентированного программирования - Python,](https://github.com/Archive-of-practical-work-for-the-PRUE/Homework-OOP) C++ | [Курсовая работа - Python](https://github.com/Archive-of-practical-work-for-the-PRUE/Visual-list-of-books-app)
+* [Основы объектно-ориентированного программирования - Python, C++](https://github.com/Archive-of-practical-work-for-the-PRUE/Homework-OOP) | [Курсовая работа - Python](https://github.com/Archive-of-practical-work-for-the-PRUE/Visual-list-of-books-app)
 * [Программирование на Python](https://github.com/Archive-of-practical-work-for-the-PRUE/Homework-Python)
 * [Технологии разработки веб-приложений на Django](https://github.com/Archive-of-practical-work-for-the-PRUE/Test-Aggregator)
 * [Интеграция и управление приложениями на удаленном сервере - Python](https://github.com/Archive-of-practical-work-for-the-PRUE/Homework-API)
@@ -29,7 +29,7 @@
 * [Проектный практикум - HTML, CSS, JS](https://github.com/Archive-of-practical-work-for-the-PRUE/Project-Practicum)
 * [Управление электронным бизнесом - Spring](https://github.com/Archive-of-practical-work-for-the-PRUE/E-business-Management)
 * [Разработка сайта в среде 1С-Битрикс](https://github.com/Archive-of-practical-work-for-the-PRUE/Website-Development-On-Bitrex)
-* [Курсовая работа по Проектному практикуму - Flutter](https://github.com/Archive-of-practical-work-for-the-PRUE/MyMPT)
+* [Проектный практикум](https://github.com/Archive-of-practical-work-for-the-PRUE/Project-Workshop) | [Курсовая работа - Flutter](https://github.com/Archive-of-practical-work-for-the-PRUE/MyMPT)
 
 ### 4 курс:
 * скоро здесь будут предметы @_@
