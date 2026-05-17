@@ -22,7 +22,7 @@
 * [Программирование на Python](https://github.com/Archive-of-practical-work-for-the-PRUE/Homework-Python)
 * [Технологии разработки веб-приложений на Django](https://github.com/Archive-of-practical-work-for-the-PRUE/Test-Aggregator)
 * [Интеграция и управление приложениями на удаленном сервере - Python](https://github.com/Archive-of-practical-work-for-the-PRUE/Homework-API) | [Курсовая работа - Python](https://github.com/Archive-of-practical-work-for-the-PRUE/Mention-bot)
-* [Информационные технологии и системы в сфере цифровой экономики - Python, Arduino]()
+* [Информационные технологии и системы в сфере цифровой экономики - Python, Arduino](https://github.com/Archive-of-practical-work-for-the-PRUE/IT-and-Systems-in-the-Digital-Economy/tree/main)
 * [Управление информационными системами - Python](https://github.com/Archive-of-practical-work-for-the-PRUE/MealMate)
 
 ### 3 курс:
