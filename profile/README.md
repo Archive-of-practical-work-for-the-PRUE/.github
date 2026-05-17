@@ -21,7 +21,7 @@
 * [Основы объектно-ориентированного программирования - Python, C++](https://github.com/Archive-of-practical-work-for-the-PRUE/Homework-OOP) | [Курсовая работа - Python](https://github.com/Archive-of-practical-work-for-the-PRUE/Visual-list-of-books-app)
 * [Программирование на Python](https://github.com/Archive-of-practical-work-for-the-PRUE/Homework-Python)
 * [Технологии разработки веб-приложений на Django](https://github.com/Archive-of-practical-work-for-the-PRUE/Test-Aggregator)
-* [Интеграция и управление приложениями на удаленном сервере - Python](https://github.com/Archive-of-practical-work-for-the-PRUE/Homework-API) | [Курсовая работа - Python]()
+* [Интеграция и управление приложениями на удаленном сервере - Python](https://github.com/Archive-of-practical-work-for-the-PRUE/Homework-API) | [Курсовая работа - Python](https://github.com/Archive-of-practical-work-for-the-PRUE/Mention-bot)
 * [Информационные технологии и системы в сфере цифровой экономики - Python, Arduino]()
 * [Управление информационными системами - Python]()
 
