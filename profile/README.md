@@ -29,6 +29,7 @@
 * [Проектный практикум - HTML, CSS, JS](https://github.com/Archive-of-practical-work-for-the-PRUE/Project-Practicum)
 * [Управление электронным бизнесом - Spring](https://github.com/Archive-of-practical-work-for-the-PRUE/E-business-Management)
 * [Разработка сайта в среде 1С-Битрикс](https://github.com/Archive-of-practical-work-for-the-PRUE/Website-Development-On-Bitrex)
+* [Курсовая работа по Проектному практикуму - Flutter](https://github.com/Archive-of-practical-work-for-the-PRUE/MyMPT)
 
 ### 4 курс:
 * скоро здесь будут предметы @_@
