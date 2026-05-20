@@ -16,8 +16,6 @@
 
 ### 2 курс:
 * [Базы данных - MySql, MaridDB](https://github.com/Archive-of-practical-work-for-the-PRUE/Homework-SQL) | [Курсовая работа - MySql](https://github.com/Archive-of-practical-work-for-the-PRUE/Homework-SQL/tree/kursovaya)
-* Вычислительные системы, сети и телекоммуникации - Cisco
-* Операционные системы - Windows
 * [Основы объектно-ориентированного программирования - Python, C++](https://github.com/Archive-of-practical-work-for-the-PRUE/Homework-OOP) | [Курсовая работа - Python](https://github.com/Archive-of-practical-work-for-the-PRUE/Visual-list-of-books-app)
 * [Программирование на Python](https://github.com/Archive-of-practical-work-for-the-PRUE/Homework-Python)
 * [Технологии разработки веб-приложений на Django](https://github.com/Archive-of-practical-work-for-the-PRUE/Test-Aggregator)
