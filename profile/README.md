@@ -32,4 +32,4 @@
 * [Проектный практикум](https://github.com/Archive-of-practical-work-for-the-PRUE/Project-Workshop) | [Курсовая работа - Flutter](https://github.com/Archive-of-practical-work-for-the-PRUE/MyMPT)
 
 ### 4 курс:
-* скоро здесь будут предметы @_@
+* [Big Data - Python](https://github.com/Archive-of-practical-work-for-the-PRUE/Big-Data)
